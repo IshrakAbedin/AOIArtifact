@@ -1,0 +1,12 @@
+energy 80
+stime 06:00pm
+etime 12:00am
+quanta 15
+work cleaning 48 60 4
+work study 25 75 5
+work repair 51 45 2
+work cooking 20 30 3
+work project 30 15 2
+recr singing 30
+recr procastinating 45
+run
